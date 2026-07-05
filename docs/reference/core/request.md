@@ -1,3 +1,0 @@
-# request
-
-::: core.request

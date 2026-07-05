@@ -1,3 +1,0 @@
-# TopApi
-
-::: modules.top.TopApi

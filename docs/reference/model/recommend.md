@@ -1,3 +1,0 @@
-# recommend
-
-::: models.recommend

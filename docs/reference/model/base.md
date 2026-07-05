@@ -1,3 +1,0 @@
-# base
-
-::: models.base

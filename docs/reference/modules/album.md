@@ -1,3 +1,0 @@
-# AlbumApi
-
-::: modules.album.AlbumApi

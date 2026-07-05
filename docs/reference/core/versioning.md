@@ -1,3 +1,0 @@
-# versioning
-
-::: core.versioning

@@ -1,0 +1,17 @@
+{
+  "name": "qqmusic-api-ts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @qqmusic-api/web dev",
+    "test": "pnpm -r test",
+    "lint": "oxlint packages/",
+    "typecheck": "pnpm -r typecheck",
+    "clean": "pnpm -r clean"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@9.0.0"
+}

@@ -1,3 +1,0 @@
-# user
-
-::: models.user

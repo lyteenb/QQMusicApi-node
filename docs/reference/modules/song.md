@@ -1,3 +1,0 @@
-﻿# SongApi
-
-::: modules.song.SongApi

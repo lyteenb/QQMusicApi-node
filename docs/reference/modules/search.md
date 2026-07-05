@@ -1,3 +1,0 @@
-# SearchApi
-
-::: modules.search.SearchApi

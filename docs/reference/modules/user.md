@@ -1,3 +1,0 @@
-# UserApi
-
-::: modules.user.UserApi

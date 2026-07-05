@@ -1,3 +1,0 @@
-# RecommendApi
-
-::: modules.recommend.RecommendApi

@@ -1,3 +1,0 @@
-# pagination
-
-::: core.pagination

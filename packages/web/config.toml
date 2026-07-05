@@ -1,0 +1,20 @@
+[log]
+mode = "both"
+level = "info"
+file_path = "./data/logs/qqmusic-api.log"
+max_bytes = 10485760
+backup_count = 10
+
+[server]
+host = "127.0.0.1"
+port = 8899
+workers = 1
+limit_concurrency = 100
+
+[cache]
+ttl = 60
+memory_max_size = 1024
+backend = "memory"
+
+[security]
+enabled = false

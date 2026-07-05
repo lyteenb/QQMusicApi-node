@@ -1,3 +1,0 @@
-# CommentApi
-
-::: modules.comment.CommentApi

@@ -1,3 +1,40 @@
+## 使用AI声明
+
+本项目代码主要由 AI 修改与整理，大概率存在不稳定、不完善或潜在问题。使用前请自行检查、测试并承担可能风险。😔
+
+## QQmusic-API 当前改动
+
+- QQ 音乐 API 已由原 Python 版迁移为 Node.js/TypeScript 版。
+- 支持 QQ 音乐扫码登录。
+- 支持搜索、歌词、歌单、播放地址、VIP 判断和试听片段。
+- 登录凭证由调用方传入，不作为服务端共享登录态保存。
+- 默认服务端口为 8899。
+
+## QQmusic-API 启动方式
+
+安装依赖：
+
+    pnpm install
+
+构建项目：
+
+    pnpm -r build
+
+进入 Web 服务目录并启动：
+
+    cd packages/web
+    node dist/index.js
+
+默认服务地址：
+
+    http://127.0.0.1:8899
+    
+## 免责声明
+本项目仅用于学习、研究与个人使用，请勿用于商业用途或任何违反相关法律法规、平台规则的场景。项目中涉及的内容版权归原版权方所有，使用者应自行承担使用本项目所产生的相关风险与责任。
+请尊重版权，支持正版。
+
+## 致谢
+感谢原作者及相关开源项目、社区贡献者提供的思路与基础实现。本项目在此基础上做了一些调整、迁移和功能适配。
 <div align="center">
     <a>
         <img src="https://socialify.git.ci/L-1124/QQMusicApi/image?font=JetBrains+Mono&language=1&name=1&pattern=Transparent&theme=Auto&logo=https%3A%2F%2Fraw.githubusercontent.com%2FL-1124%2FQQMusicApi%2Frefs%2Fheads%2Fmain%2Fassets%2Fqq-music.svg" alt="QQMusicApi" width="640" height="320" />

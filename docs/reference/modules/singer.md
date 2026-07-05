@@ -1,3 +1,0 @@
-# SingerApi
-
-::: modules.singer.SingerApi

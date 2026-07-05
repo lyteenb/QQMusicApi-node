@@ -1,3 +1,0 @@
-# top
-
-::: models.top
