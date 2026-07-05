@@ -1,4 +1,4 @@
-## 感谢 [fovepig](https://github.com/fovepig) 对本项目的帮助和支持*★,°*:.☆(￣▽￣)/$:*.°★* 。
+### 感谢 [fovepig](https://github.com/fovepig) 对本项目的帮助和支持*★,°*:.☆(￣▽￣)/$:*.°★* 
 
 ## 使用AI声明
 
@@ -37,6 +37,7 @@
 
 ## 致谢
 感谢原作者及相关开源项目、社区贡献者提供的思路与基础实现。本项目在此基础上做了一些调整、迁移和功能适配。
+![Stone Badge](https://stone.professorlee.work/api/stone/lyteenb/QQMusicApi-node)
 <div align="center">
     <a>
         <img src="https://socialify.git.ci/L-1124/QQMusicApi/image?font=JetBrains+Mono&language=1&name=1&pattern=Transparent&theme=Auto&logo=https%3A%2F%2Fraw.githubusercontent.com%2FL-1124%2FQQMusicApi%2Frefs%2Fheads%2Fmain%2Fassets%2Fqq-music.svg" alt="QQMusicApi" width="640" height="320" />
